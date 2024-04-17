@@ -1,1 +1,3 @@
 # landingpage
+
+## how to install
